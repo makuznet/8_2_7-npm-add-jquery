@@ -1,0 +1,22 @@
+{
+  "name": "8_2_7-npm-add-jquery",
+  "version": "1.0.0",
+  "description": "8_2_7-npm-add-jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makuznet/8_2_7-npm-add-jquery.git"
+  },
+  "author": "Maksim Kuznetsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makuznet/8_2_7-npm-add-jquery/issues"
+  },
+  "homepage": "https://github.com/makuznet/8_2_7-npm-add-jquery#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
